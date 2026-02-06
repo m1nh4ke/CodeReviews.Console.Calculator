@@ -1,0 +1,12 @@
+C:\Users\Windows 11 Pro\source\repos\Calculator\Menu\bin\Debug\net9.0\Menu.deps.json
+C:\Users\Windows 11 Pro\source\repos\Calculator\Menu\bin\Debug\net9.0\Menu.dll
+C:\Users\Windows 11 Pro\source\repos\Calculator\Menu\bin\Debug\net9.0\Menu.pdb
+C:\Users\Windows 11 Pro\source\repos\Calculator\Menu\obj\Debug\net9.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11 Pro\source\repos\Calculator\Menu\obj\Debug\net9.0\Menu.AssemblyInfoInputs.cache
+C:\Users\Windows 11 Pro\source\repos\Calculator\Menu\obj\Debug\net9.0\Menu.AssemblyInfo.cs
+C:\Users\Windows 11 Pro\source\repos\Calculator\Menu\obj\Debug\net9.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11 Pro\source\repos\Calculator\Menu\obj\Debug\net9.0\Menu.sourcelink.json
+C:\Users\Windows 11 Pro\source\repos\Calculator\Menu\obj\Debug\net9.0\Menu.dll
+C:\Users\Windows 11 Pro\source\repos\Calculator\Menu\obj\Debug\net9.0\refint\Menu.dll
+C:\Users\Windows 11 Pro\source\repos\Calculator\Menu\obj\Debug\net9.0\Menu.pdb
+C:\Users\Windows 11 Pro\source\repos\Calculator\Menu\obj\Debug\net9.0\ref\Menu.dll

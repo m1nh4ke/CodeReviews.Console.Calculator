@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Calculator/Calculator.csproj" />
+  <Project Path="CalculatorLibrary/CalculatorLibrary.csproj" Id="20872eb0-c07f-4f10-8ccf-780139815f00" />
+  <Project Path="Menu/Menu.csproj" Id="8df53b1f-5192-45d6-b2ef-5d16d7eb2c4d" />
+</Solution>
